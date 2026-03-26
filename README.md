@@ -88,5 +88,10 @@ The dataset contains Diwali sales details such as:
 
 
 
+  👨‍💻 Author
+
+Yogesh Pacharane
+
+
 ```md
 ![Sales Chart](image_name.png)
